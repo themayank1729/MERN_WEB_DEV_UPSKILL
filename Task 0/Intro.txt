@@ -1,0 +1,1 @@
+Task 0 is deployed usiing netify web platform which is free and the deployment web address is : https://fascinating-taffy-fb7ee3.netlify.app/ 
